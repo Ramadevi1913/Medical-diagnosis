@@ -4,7 +4,8 @@ This repository contains the code for an AI-powered diagnostic assistant that de
 
 ## Problem Statement
 
-This project aims to assist healthcare professionals in diagnosing diseases more accurately and efficiently by analyzing medical images and patient data.  A Convolutional Neural Network (CNN) is trained on mock data to identify potential anomalies.  The development process involved iteratively refining the model and data generation to achieve a balance between high accuracy and preventing overfitting.
+A diagnostic assistant, a solution that can analyze medical images, patient data, and symptoms to assist healthcare professionals in diagnosing diseases accurately and efficiently (using mock data).
+
 
 ## Repository Structure
 
